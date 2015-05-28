@@ -1,5 +1,7 @@
 # GitTools 
 
+[![Join the chat at https://gitter.im/yaras/GitTools](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/yaras/GitTools?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Tools for git. 
 
 Requirements:
